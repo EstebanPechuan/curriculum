@@ -778,4 +778,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [BunnyTheLifeguard's Solution](https://github.com/BunnyTheLifeguard/Etch-a-Sketch)
 * [M_June's Solution](https://github.com/MrkH615/Etch-a-Sketch) - [View in Browser](https://mrkh615.github.io/Etch-a-Sketch/)
 * [Arf65's Solution](https://github.com/arf65/etch-a-sketch) - [View in Browser](https://arf65.github.io/etch-a-sketch/)
+* [EstebanPechuan's Solution](https://github.com/EstebanPechuan/odin-Etch-a-Sketch) - [View in Browser](https://estebanpechuan.github.io/odin-Etch-a-Sketch/)
+
 </details>
